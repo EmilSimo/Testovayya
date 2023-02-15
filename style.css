@@ -1,0 +1,38 @@
+#siklo{
+margin-left:230px;
+margin-top:-45px;
+}
+#image{
+padding:15px;
+margin-left:-15px;
+}
+#text{
+line-height: 31px;
+font-size: 20px;
+margin-top:-25px;
+align:center;
+}
+#milo{
+font-family:sans-serif;
+font-style:italic;
+font-size: 16px;
+margin-top:-100px;
+margin-left:25px
+}
+#Z{
+font-weight: bold;
+}
+.hidden {
+float: left;
+display:none;
+background:#EEEEFF;
+border: 1px solid blue;
+padding: 10px;
+}
+.picture p{
+margin: 0;
+text-align:center;
+font-family: sans - serif;
+font-size: 80%;
+font-weght: bold;
+}
